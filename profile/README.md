@@ -1,5 +1,5 @@
 ### 组织介绍
-MinecraftProgrammingTeam（以下简称MPT）是一个免费为各位提供插件和MOD外包服务。
+Minecraft Programming Team（以下简称MPT）是一个免费为各位提供插件和MOD外包服务。
 
 我们用爱发电，尽力使各位的想法变为现实。
 
