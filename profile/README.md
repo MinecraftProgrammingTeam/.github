@@ -8,6 +8,7 @@ MinecraftProgrammingTeam（以下简称MPT）是一个免费为各位提供插�
 
 ### 联系
 网站：https://www.minept.top
+Gitee：https://gitee.com/minecraft-programming-team
 邮箱：huihui10222@qq.com
 
 #### 赞助渠道
