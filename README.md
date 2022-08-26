@@ -3,13 +3,19 @@ Minecraft Programming Team（以下简称MPT）是一个免费为各位提供插
 
 我们用爱发电，尽力使各位的想法变为现实。
 
-### 如何加入MPT
+### 想加入用户群与我们反馈您在使用中的一些问题？
+请加Q群：[169999682](https://jq.qq.com/?_wv=1027&k=vHaFhWTa "点击链接加入群聊【MPT用户体验交流与反馈】")
+并仔细阅读群公告
+
+### 如何加入MPT并成为开发者？
 请加Q群：[183498356](https://jq.qq.com/?_wv=1027&k=aCgs0sPl "点击链接加入群聊【MPT管理组】")
 并仔细阅读群公告
 
 ### 联系
 
 网站：https://www.minept.top
+
+Github：https://github.com/MinecraftProgrammingTeam
 
 Gitee：https://gitee.com/minecraft-programming-team
 
