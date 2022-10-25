@@ -1,8 +1,8 @@
-## 请选择您的阅读语言
+<h2 align="center">请选择您的阅读语言</h2>
 
-## Choose your reading language
+<h2 align="center">Choose your reading language</h2>
 
-<h2><a href=".\README.md">简体中文</a> English</h2>
+<h2 align="center"><a href=".\README.md">简体中文</a> English</h2>
 
 ### Organization introduction
 
