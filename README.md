@@ -1,4 +1,7 @@
-## 简体中文 Chinese
+## 请选择您的阅读语言
+## Choose your reading language
+
+<h2>简体中文 <a href=".\README_EN.md">English</a></h2>
 
 ### 组织介绍
 
@@ -30,34 +33,3 @@ https://afdian.net/@huihui
 
 感谢您的阅读！
 
-## 英文 English
-
-### Organization introduction
-
-Minecraft Programming Team (hereinafter referred to as MPT) is a free Plugin and MOD outsourcing service.
-
-We use [AiFaDian](https://afdian.net/ "AiFaDian") and try our best to make your ideas come true.
-
-### Want to join the user group and feed back some questions about your use?
-
-Please join the official Telegram [MPT User Group](https://t.me/MPT_User_Group "MPT User Group") and read the group announcement carefully!
-
-### How to join MPT and become a developer?
-
-Please join the official Telegram [MPT Management Group](https://t.me/MPT_Management_Group "MPT Management Group") and read the group announcement carefully!
-
-### Communication
-
-Website：https://www.minept.top
-
-Github：https://github.com/MinecraftProgrammingTeam
-
-Gitee：https://gitee.com/minecraft-programming-team
-
-E-mail：huihui10222@qq.com
-
-#### Sponsorship channel
-
-https://afdian.net/@huihui
-
-Thanks for reading!
