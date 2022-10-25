@@ -14,7 +14,7 @@ Minecraft Programming Team（以下简称MPT）是一个免费为各位提供插
 并仔细阅读群公告
 
 ### 如何加入MPT并成为开发者？
-请加Q群：[818771943](https://jq.qq.com/?_wv=1027&k=Il4ZqYZM)
+请加Q群：[818771943](https://jq.qq.com/?_wv=1027&k=Il4ZqYZM "点击链接加入群聊【MPT管理组】")
 并仔细阅读群公告
 
 ### 联系
