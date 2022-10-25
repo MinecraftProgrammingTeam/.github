@@ -8,7 +8,9 @@
 
 Minecraft Programming Team (hereinafter referred to as MPT) is a free Plugin and MOD outsourcing service.
 
-We use AiFaDian and try our best to make your ideas come true.
+Everyone here use our free time to do things for you, and no charge
+
+We will try our best to make your ideas come true.
 
 Want to join the user group and feed back some questions about your use?
 
@@ -32,4 +34,4 @@ Sponsorship channel
 
 https://afdian.net/@huihui
 
-Thanks for reading!
+Thanks for reading, hope the next who join in our team is you.
