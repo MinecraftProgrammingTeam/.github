@@ -1,5 +1,5 @@
 # Choose your reading language
-<a href=".\README.md">简体中文</a> English
+<h1><a href=".\README.md">简体中文</a> English</h1>
 
 # Organization introduction
 Minecraft Programming Team (hereinafter referred to as MPT) is a free Plugin and MOD outsourcing service.
