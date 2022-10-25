@@ -1,7 +1,7 @@
-<h2 align="center">请选择您的阅读语言
-Choose your reading language</h2>
+<h2 align="center">请选择您的阅读语言</h2>
+<h2 align="center">Choose your reading language</h2>
 
-<h2>简体中文 <a href=".\README_EN.md">English</a></h2>
+<h2 align="center">简体中文 <a href=".\README_EN.md">English</a></h2>
 
 ### 组织介绍
 
