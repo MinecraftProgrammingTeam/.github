@@ -19,7 +19,7 @@ Minecraft Programming Team（以下简称MPT）是一个免费为各位提供插
 
 ### 联系
 
-网站：https://www.minept.top
+网站：https://mpt.mooncc.cn
 
 Github：https://github.com/MinecraftProgrammingTeam
 
