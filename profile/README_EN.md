@@ -22,7 +22,7 @@ Please join the official Telegram MPT Management Group and read the group announ
 
 ### Communication
 
-Website：https://www.minept.top
+Website：https://mpt.mooncc.cn
 
 Github：https://github.com/MinecraftProgrammingTeam
 
